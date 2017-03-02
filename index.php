@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<tilte>gg creative design</title>
+	<title>gg creative design</title>
 	<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
 	<meta name="DC.Language" SCHEME="RFC1766" CONTENT="Spanish">
 	<meta name="author" content="Ignacio Badell">
@@ -37,7 +37,7 @@
 
 <body>
 
-<h1>Proximamente</h1>
+<h1>Proximamente...</h1>
 
 
 </body>
